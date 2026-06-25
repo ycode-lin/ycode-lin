@@ -1,21 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=00F5D4&center=true&vCenter=true&width=680&height=45&lines=Hi+there%2C+I'm+YCode+%F0%9F%91%8B;Coding+is+my+favorite+debug+mode;Build+bold%2C+ship+fast%2C+stay+curious" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=780&height=48&lines=YCode+%E2%80%94+Know+Why+You+Code;A+culture+for+builders+who+ask+better+questions;From+curiosity+to+creation%2C+with+Owen" alt="YCode Typing Animation" />
 
 </div>
 
 ```bash
 > whoami
-YCode / Full-Stack Engineer / Builder
+YCode / A builder culture / Founded by Owen
 
-> cat motto.txt
-"Stay curious, go deep, build open."
+> cat manifesto.txt
+"Before writing the next line, ask why it deserves to exist."
 
-> ./run --mode=geek
-[OK] Designing cool things...
-[OK] Shipping useful tools...
-[OK] Learning forever...
+> ./run --mode=why-first
+[OK] Questioning the problem before polishing the answer...
+[OK] Turning curiosity into shared tools and stories...
+[OK] Building with clarity, courage, and responsibility...
 ```
+
+## Y? — Why Code
+
+YCode is more than a personal label or a technical signature. It is an open attitude toward creation: **understand why we code before deciding how to code**.
+
+The hand-drawn **Y?** carries our first question. It is rough, direct, and human because meaningful software rarely begins with perfection. It begins with doubt, observation, empathy, and the courage to turn a question into something useful.
+
+Led by **Owen**, YCode speaks to engineers, designers, founders, learners, and anyone who wants technology to carry intent instead of noise. We believe code is not only a tool for shipping products; it is also a language for clarifying thought, connecting people, and leaving better choices behind.
 
 ## ⚡ Tech Stack Matrix
 
@@ -37,21 +45,22 @@ YCode / Full-Stack Engineer / Builder
   <img src="https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-## 🧪 Build Philosophy
+## 🧭 Culture Manifesto
 
-- Think like an engineer, craft like an artist.
-- Keep architecture clean, but never boring.
-- Build tools that make developers smile.
+- **Why first.** Every project should answer a real need, not just display a new skill.
+- **Build for people.** Good engineering makes complexity feel lighter for someone else.
+- **Stay unfinished.** The best builders keep learning, questioning, and refining their craft.
+- **Ship with care.** Speed matters, but responsibility decides whether speed is worth it.
 
-> **"Code should be useful first, elegant second, and always evolving."**
+> **"Code is the artifact; the reason behind it is the culture."**
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ycode-lin&theme=react-dark&bg_color=111111&color=00F5D4&line=00F5D4&point=00F5D4" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ycode-lin&theme=react-dark&bg_color=111111&color=FFFFFF&line=FFFFFF&point=FFFFFF" alt="Activity Graph" width="100%" />
 
 <br>
 
 <div align="center">
-  <a href="mailto:ycode.4ev@gmail.com"><img src="https://img.shields.io/badge/Email-ycode.4ev@gmail.com-00F5D4?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/214520669"><img src="https://img.shields.io/badge/Bilibili-Space-FB7299?style=flat-square&logo=bilibili&logoColor=white" /></a>
+  <a href="mailto:ycode.4ev@gmail.com"><img src="https://img.shields.io/badge/Email-ycode.4ev@gmail.com-FFFFFF?style=flat-square&logo=gmail&logoColor=111111" /></a>
+  <a href="https://space.bilibili.com/214520669"><img src="https://img.shields.io/badge/Bilibili-Space-FFFFFF?style=flat-square&logo=bilibili&logoColor=111111" /></a>
 </div>
